@@ -2,8 +2,8 @@
      that smart and dearly wants an empty line before a heading to be able to
      display it as such, e.g. website) -->
 
-# Design patterns implemented in Java
-
+# Design patterns implemented in Java  
+SHAWAL WAS HERE..
 ![Java CI](https://github.com/iluwatar/java-design-patterns/workflows/Java%20CI/badge.svg)
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iluwatar/java-design-patterns/master/LICENSE.md)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=iluwatar_java-design-patterns&metric=ncloc)](https://sonarcloud.io/dashboard?id=iluwatar_java-design-patterns)
@@ -19,7 +19,7 @@ Read in different language : [**zh**](localization/zh/README.md), [**ko**](local
 
 <br/>
 
-# Introduction
+# Introduction  
 
 Design patterns are the best, formalized practices a programmer can use to
 solve common problems when designing an application or system.
